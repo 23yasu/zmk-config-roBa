@@ -105,10 +105,10 @@
 
         NUM {
             bindings = <
-&kp EXCLAMATION  &kp LS(N2)  &kp HASH              &kp DOLLAR             &kp PERCENT                                               &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &kp LS(MINUS)
-&kp LS(N6)       &kp LS(N7)  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp INT_YEN   &kp LC(LA(KP_NUMBER_0))      &kp EQUAL      &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp COLON     &kp LS(N8)
-&kp MINUS        &kp LBKT    &kp RBKT              &kp BSLH               &kp LS(LBKT)  &kp LS(RIGHT_BRACE)          &kp BACKSLASH  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp MINUS     &kp SLASH
-&kp UNDERSCORE   &trans      &trans                &trans                 &trans        &trans                       &trans         &trans                                                  &kp LS(INT_RO)
+&kp EXCLAMATION  &kp LS(N2)  &kp HASH   &kp DOLLAR            &kp PERCENT                                                      &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp NUMBER_0  &kp LS(MINUS)
+&kp LS(N6)       &kp LS(N7)  &kp ASTRK  &kp LEFT_PARENTHESIS  &kp INT_YEN          &kp LC(LA(KP_NUMBER_0))      &kp EQUAL      &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp COLON     &kp LS(N8)
+&kp MINUS        &kp LBKT    &kp RBKT   &kp BSLH              &kp LS(RIGHT_BRACE)  &kp BSLH                     &kp BACKSLASH  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp MINUS     &kp SLASH
+&kp LEFT_SHIFT   &trans      &trans     &trans                &trans               &trans                       &trans         &trans                                                  &kp LS(INT_RO)
             >;
         };
 
