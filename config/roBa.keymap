@@ -56,7 +56,7 @@
 
         WinTAB {
             bindings = <&kp LG(TAB)>;
-            key-positions = <12 11 39>;
+            key-positions = <23 24>;
         };
     };
 
